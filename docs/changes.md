@@ -301,7 +301,8 @@
 - [MagiskInit] [SAR] Boot system-as-root devices with system mounted as /
 - [MagiskInit] [2SI] Support 2-stage-init for A/B devices (Pixel 3 Android 10)
 - [MagiskInit] [initramfs] Delay sbin overlay creation to post-fs-data
-- [MagiskInit] [SARCompat] Old system-as-root implementation is deprecated, no more future changes
+- [Magisk
+  Init] [SARCompat] Old system-as-root implementation is deprecated, no more future changes
 - [MagiskInit] Add overlay.d support for root directory overlay for new system-as-root implementation
 - [MagiskSU] Unblock all signals in root shells (fix bash on Android)
 - [MagicMount] Support replacing files in /product
